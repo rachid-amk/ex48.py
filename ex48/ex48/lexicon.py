@@ -31,7 +31,7 @@ def scan(direction):
                 result.append(('error', i))
         return result
 
-#this is to test the code by youself
-print('write somthing?')
-user_input = input("> ")
-print(scan(user_input))
+# remove the commant to test the code by youself 
+#print('write somthing?')
+#user_input = input("> ")
+#print(scan(user_input))
